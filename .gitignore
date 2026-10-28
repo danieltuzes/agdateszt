@@ -1,0 +1,7 @@
+# Agda build artifacts
+_build/
+*.agdai
+
+# Compiled JavaScript output
+dist/
+jAgda/
