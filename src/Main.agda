@@ -89,3 +89,4 @@ first-elem = head my-vec
 -- Bizonyítás: a my-vec első eleme pontosan 10
 proof-first-elem-is-10 : first-elem ≡ 10
 proof-first-elem-is-10 = refl
+

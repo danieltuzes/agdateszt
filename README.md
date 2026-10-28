@@ -104,5 +104,7 @@ first-elem = head my-vec
 
 ## 📦 Git Verziókezelés
 
-A projekthez inicializálásra került egy helyi Git repository (`git init`).
-Távoli tárhely (remote) nincs beállítva a felhasználó kérésének megfelelően.
+A projekt a GitHubon elérhető nyilvános repositoryként:
+- **Repository:** [https://github.com/danieltuzes/agdateszt](https://github.com/danieltuzes/agdateszt)
+
+
